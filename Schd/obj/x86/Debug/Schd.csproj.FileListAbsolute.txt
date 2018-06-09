@@ -1,0 +1,24 @@
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.Cache
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\bin\Debug\Schd.exe
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\bin\Debug\Schd.pdb
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.exe
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.pdb
+C:\Users\snail\Documents\Visual Studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.csprojResolveAssemblyReference.cache
+C:\Users\snail\Documents\Visual Studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.Scheduling.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.exe
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.pdb
+D:\스케쥴링\Schd\Schd\bin\Debug\Schd.exe
+D:\스케쥴링\Schd\Schd\bin\Debug\Schd.pdb
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.csprojResolveAssemblyReference.cache
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.Scheduling.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.Cache
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\bin\Debug\Schd.exe
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\bin\Debug\Schd.pdb
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\obj\x86\Debug\Schd.csprojResolveAssemblyReference.cache
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\obj\x86\Debug\Schd.Scheduling.resources
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.Cache
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\obj\x86\Debug\Schd.exe
+C:\Users\Tae0E\Documents\Visual Studio 2017\Projects\Schd\Schd\obj\x86\Debug\Schd.pdb
